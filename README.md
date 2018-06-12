@@ -3,8 +3,8 @@ Roshun Bhoot is a simple game based on traditional Flappy Bird game. The main go
 
 # Team Members
 
-  Mujtaba Asif
-  Jannatul Adon
+    Mujtaba Asif
+    Jannatul Adon
 
 # Screen shots
 ![Game start](/MISC/1.png)
