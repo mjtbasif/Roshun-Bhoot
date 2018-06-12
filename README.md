@@ -3,9 +3,15 @@ Roshun Bhoot is a simple game based on traditional Flappy Bird game. The main go
 
 # Team Members
 
-    Mujtaba Asif
-    Jannatul Adon
-
+    Mujtaba Asif: Team Leader of the project. Did the coding and animation part. 
+    
+    Jannatul Adon: Designed arts for the project. 
+    
+# Tools
+    1. <a href ="https://unity3d.com/">Unity</a>
+    2. C#
+    3. <a href= "https://www.adobe.com/products/illustrator.html">Illustrator</a> 
+    
 # Screen shots
 ![Game start](/MISC/1.png)
 
