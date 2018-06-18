@@ -21,4 +21,4 @@ Roshun Bhoot is a simple game based on traditional Flappy Bird game. The main go
 
 # Download
 
-We have worked on Windows version. To download the game on your PC from <a href="setup.exe">here</a>.
+We have worked on Windows version. Download the game on your PC from <a href="setup.exe">here</a>.
